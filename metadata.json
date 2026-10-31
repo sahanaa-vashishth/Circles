@@ -1,0 +1,6 @@
+{
+  "name": "Orbit",
+  "description": "A calm, warm, non-judgmental mental wellbeing companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

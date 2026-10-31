@@ -1,0 +1,19 @@
+{
+  "test_profile_user_123": {
+    "userId": "test_profile_user_123",
+    "displayName": "Sahana Anand",
+    "bio": "Mindfulness practitioner and peer supporter.",
+    "email": "sahanaav2024@gmail.com",
+    "avatar": "emerald",
+    "createdAt": "2026-10-31T07:20:52.009Z",
+    "updatedAt": "2026-10-31T07:20:52.032Z"
+  },
+  "test_user": {
+    "userId": "test_user",
+    "displayName": "Sahana V.",
+    "bio": "Seeking mindfulness and quiet strength. Taking things one gentle breath at a time.",
+    "email": "sahanaav2024@gmail.com",
+    "avatar": "indigo",
+    "createdAt": "2026-10-31T07:35:51.241Z"
+  }
+}

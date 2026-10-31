@@ -1,0 +1,196 @@
+[
+  {
+    "id": "post-1793385600482-w7esg",
+    "title": "Hard week",
+    "content": "I had a really shitty day and feel like crying, but I will get through it.",
+    "category": "Self Reflection",
+    "author": "Community Member",
+    "isAnonymous": false,
+    "createdAt": "2026-10-30T18:40:00.482Z",
+    "reactions": {
+      "warmth": 0,
+      "here": 0,
+      "matter": 0,
+      "proud": 0
+    },
+    "userReactions": {},
+    "comments": [
+      {
+        "id": "comment-1793385600489-boh0r",
+        "postId": "post-1793385600482-w7esg",
+        "parentId": null,
+        "author": "Community Member",
+        "isAnonymous": false,
+        "content": "I respectfully disagree with your study method; taking breaks works better for me.",
+        "createdAt": "2026-10-30T18:40:00.489Z"
+      }
+    ]
+  },
+  {
+    "id": "post-1793385582199-3k9m7",
+    "title": "Hard week",
+    "content": "I had a really shitty day and feel like crying, but I will get through it.",
+    "category": "Self Reflection",
+    "author": "Community Member",
+    "isAnonymous": false,
+    "createdAt": "2026-10-30T18:39:42.199Z",
+    "reactions": {
+      "warmth": 0,
+      "here": 0,
+      "matter": 0,
+      "proud": 0
+    },
+    "userReactions": {},
+    "comments": []
+  },
+  {
+    "id": "post-1793384683250-xlcjz",
+    "title": "Feeling a bit lost with my career direction",
+    "content": "Everyone around me seems to have a clear five-year plan. Trying to remind myself it is okay to explore.",
+    "category": "College & Life",
+    "author": "Anonymous Friend",
+    "isAnonymous": true,
+    "createdAt": "2026-10-30T18:24:43.250Z",
+    "reactions": {
+      "warmth": 0,
+      "here": 0,
+      "matter": 0,
+      "proud": 0
+    },
+    "userReactions": {},
+    "comments": []
+  },
+  {
+    "id": "post-1793384683245-h2d9j",
+    "title": "Passed my hardest exam today!",
+    "content": "After weeks of stress and sleepless nights, I walked in and did my best. Grateful for this community.",
+    "category": "Small Wins",
+    "author": "Sahana V.",
+    "isAnonymous": false,
+    "createdAt": "2026-10-30T18:24:43.245Z",
+    "reactions": {
+      "warmth": 1,
+      "here": 0,
+      "matter": 0,
+      "proud": 0
+    },
+    "userReactions": {
+      "user_test_1": "warmth"
+    },
+    "comments": [
+      {
+        "id": "comment-1793384683258-qjr5h",
+        "postId": "post-1793384683245-h2d9j",
+        "parentId": null,
+        "author": "Arun K.",
+        "isAnonymous": false,
+        "content": "Huge congratulations! Celebrate this milestone today.",
+        "createdAt": "2026-10-30T18:24:43.258Z"
+      }
+    ]
+  },
+  {
+    "id": "post-1",
+    "title": "Taking pauses when the mind feels full",
+    "content": "I used to feel guilty for stepping away from my notes during exam preparation. Today I finally realized that my thoughts settle much better when I give myself permission to take a 15-minute walk outside. The information actually sticks when I’m not constantly running on panic.",
+    "category": "College & Life",
+    "author": "Priya S.",
+    "isAnonymous": false,
+    "createdAt": "2026-10-30T16:24:34.871Z",
+    "reactions": {
+      "warmth": 12,
+      "here": 18,
+      "matter": 7,
+      "proud": 14
+    },
+    "userReactions": {},
+    "comments": [
+      {
+        "id": "comment-1",
+        "postId": "post-1",
+        "author": "Arun K.",
+        "isAnonymous": false,
+        "content": "This is so true. Fresh air changes everything when the study anxiety kicks in.",
+        "createdAt": "2026-10-30T16:54:34.871Z"
+      },
+      {
+        "id": "comment-2",
+        "postId": "post-1",
+        "parentId": "comment-1",
+        "author": "Anonymous Friend",
+        "isAnonymous": true,
+        "content": "Needed this reminder today. Been sitting at my desk for 6 hours straight. Stepping out now.",
+        "createdAt": "2026-10-30T17:39:34.871Z"
+      }
+    ]
+  },
+  {
+    "id": "post-2",
+    "title": "Reached out to a friend after weeks of isolation",
+    "content": "My self-doubt kept insisting they were too busy and that I would just be an emotional burden. But I finally sent a short message saying \"Thinking of you.\" We ended up laughing over voice notes for an hour. Sometimes the hardest part is just pressing send.",
+    "category": "Small Wins",
+    "author": "Anonymous Friend",
+    "isAnonymous": true,
+    "createdAt": "2026-10-30T13:24:34.871Z",
+    "reactions": {
+      "warmth": 24,
+      "here": 15,
+      "matter": 11,
+      "proud": 32
+    },
+    "userReactions": {},
+    "comments": [
+      {
+        "id": "comment-3",
+        "postId": "post-2",
+        "author": "Maya R.",
+        "isAnonymous": false,
+        "content": "I am so proud of you! Breaking that isolation loop takes so much bravery.",
+        "createdAt": "2026-10-30T15:24:34.871Z"
+      }
+    ]
+  },
+  {
+    "id": "post-3",
+    "title": "Evening tea without any screens or noise",
+    "content": "Sat by the open window with warm chamomile and just watched the dusk settle over the trees. No notifications, no podcast in the background. It felt strange for the first two minutes, and then incredibly grounding.",
+    "category": "Self Reflection",
+    "author": "Arun K.",
+    "isAnonymous": false,
+    "createdAt": "2026-10-29T22:24:34.871Z",
+    "reactions": {
+      "warmth": 19,
+      "here": 8,
+      "matter": 14,
+      "proud": 9
+    },
+    "userReactions": {},
+    "comments": []
+  },
+  {
+    "id": "post-4",
+    "title": "Heavy heart tonight, just need to know someone is out there",
+    "content": "Everything felt like too much today. Just feeling a bit alone in my room and wanted to leave a quiet note here. Hope whoever is reading this has a gentle night.",
+    "category": "Need Someone to Talk To",
+    "author": "Anonymous Friend",
+    "isAnonymous": true,
+    "createdAt": "2026-10-29T16:24:34.871Z",
+    "reactions": {
+      "warmth": 35,
+      "here": 42,
+      "matter": 29,
+      "proud": 5
+    },
+    "userReactions": {},
+    "comments": [
+      {
+        "id": "comment-4",
+        "postId": "post-4",
+        "author": "Dev M.",
+        "isAnonymous": false,
+        "content": "We are right here with you. You are never truly alone. Wrap yourself in a warm blanket tonight.",
+        "createdAt": "2026-10-29T17:24:34.871Z"
+      }
+    ]
+  }
+]
